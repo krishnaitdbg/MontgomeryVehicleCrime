@@ -11,8 +11,8 @@ It also renders pie donut and box plots for better understanding of crime stats 
 
 ## Map View
 Map view analyzes Montgomery County Vehicle Data dating from year 2016 to till date.
-And renders leaflet map with multiple layers of vehicle crime types and map backgrounds.
-Try layers options to view vehicle crime data geographically.
+And leaflet map renders multiple layers of vehicle crime types data and map backgrounds.
+Try layers options to view vehicle crime data geographically. And hover over circlemarkers to look at vehicle crime details.
 
 ## Twitter View (Sankey Diagram)
 Twitter view is of Sankey diagram for analyzing user tweets which contain search keyword 'Geico'. 
